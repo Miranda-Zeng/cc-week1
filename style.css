@@ -1,0 +1,208 @@
+body {
+    background-color:lemonchiffon;
+    /* background-color: #F4E8A1; */
+}
+
+.dayone{
+    background-color:#F3D6D8;
+}
+
+.daythree{
+    background-color: #DDE5D5;
+}
+
+.daytwo{
+    background-color:lightcyan;
+}
+
+.dayfour{
+    background-color:lightgoldenrodyellow;
+}
+
+.dayfive{
+    background-color:lightsalmon;
+}
+
+.dayseven{
+    background-color:lavender;
+}
+
+.navigation{
+    display:flex;
+    justify-content: space-between;
+    width:90%;
+    margin:80px auto auto 40px;
+}
+
+.navigation img{
+    width: 20px;
+    height: auto;
+}
+
+
+.foodpage{
+    background-color: #F3E5C8;
+}
+.coffeepage{
+    background-color: #E5D7C5;
+}
+
+/* img {
+    width: 100px;
+} */
+
+h1{
+    color:#C96F7B;
+    font-size: 48px;
+    padding-left: 20px;
+    text-align: center;
+    margin-bottom: 5px;
+
+}
+
+h2{
+    /* color:steelblue; */
+    color: #4F5965;             
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#subtitle{
+    /* color:rgb(181, 215, 247); */
+    color: #526B8F;             
+    font-size: 18px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.folders{
+    margin-top: 50px; 
+    display: flex;
+    gap: 25px;
+   
+}
+
+.folders img{
+    width:100px;
+}
+
+.folders figure{
+    text-align: center;
+    color:rgb(49, 49, 219);
+}
+
+/* figcaption { */
+    /* text-align: center; */
+    /* color:rgb(49, 49, 219); */
+/* } */
+
+.pinkfolders{
+    display: flex;
+    gap:25px;
+    margin-top: 300px;
+}
+
+.pinkfolders img{
+    width:80px;
+}
+
+.pinkfolders figure{
+    text-align: center;
+}
+
+
+.block{
+    display:flex;
+    /* align-items: center; */
+    /* align-content: center; */
+    gap: 30px;
+    width: 60%;
+    margin: 30px auto;
+
+}
+.block p{
+    font-size: 18px;
+}
+.block img{
+    width: 300px;
+    padding: 15px;
+    background-color: aliceblue;
+}
+
+.anotherblock{
+    display:flex;
+    gap: 30px;
+    width: 60%;
+    margin-left: 150px;
+}
+
+.anotherblock img{
+    width: 300px;
+    padding: 15px;
+    background-color: aliceblue;
+}
+
+#explore{
+    font-size: 18px;
+    text-align: center;
+}
+
+#right{
+    transform:rotate(-3deg);    
+}
+#left{
+    transform:rotate(6deg);   
+}
+#middle{
+    transform:rotate(-6deg);   
+}
+
+#coffee{
+    color: rgb(157, 80, 80);
+    font-size: 32px;
+}
+
+.coffeedisplay{
+    margin-left: 20px;
+    display: flex;
+    gap: 50px;
+
+}
+
+.coffeedisplay img{
+    width:300px;
+}
+
+p{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+#beef{
+    font-size: 32px;
+    color: darkred;
+}
+
+#foodtitle{
+    font-style: normal;
+    font-size: 24px;
+}
+
+ul{
+    font-size: 20px;  
+    font-style: oblique;
+}
+
+.list{
+    padding: 5px;
+    background-color: azure;
+    width: 350px;
+    margin:30px auto;
+}
+
+
+.foodlists{
+    display: flex;
+    gap:50px;
+    width: auto;
+}
