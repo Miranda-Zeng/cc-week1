@@ -27,6 +27,10 @@ body {
     background-color:lavender;
 }
 
+.daynine{
+    background-color: rgb(179, 238, 147);
+}
+
 .navigation{
     display:flex;
     justify-content: space-between;
